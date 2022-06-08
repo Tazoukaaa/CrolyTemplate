@@ -1,4 +1,4 @@
-# Template Discord Bot
+# Croly - Discord Bot Template
 Une base squelette d'un robot Discord développer en JavaScript, utilisant le module `discord.js` en V13, permettant les ***Slash Commands*** & ***Text Commands*** sur le/les serveur(s).
 Il ne comprend pour le moment pas de fonction, ***multi-serveurs***, mais nous restons à l'écoute de ce genre de propositions.
 
