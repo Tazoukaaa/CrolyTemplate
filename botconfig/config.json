@@ -1,0 +1,18 @@
+{
+        "token": "VOTRE TOKEN",
+        "prefix": "VOTRE PREFIX",
+        "statuttype": "WATCHING", "COMMENT": "Les types de status dispo sont : WATCHING, PLAYING, LISTENING",
+        "statut": "VOTRE STATUS",
+        "loadSlashsGlobal": false, "_COMMENT_": "Nous déconseillons d'activer cette fonction.",
+        "antibot": true,
+        "welcomeimage": true,
+        "autorole": true,
+        "autoroleid": "ID DU ROLE A DONNER",
+        "slashCommandsDirs": [
+                {
+                        "Folder": "cmds",
+                        "CmdName": "robot",
+                        "CmdDescription": "Découvrez toutes les commandes dédiées au robot"
+                }
+        ]
+}
