@@ -40,4 +40,4 @@ Pour installer cette version du bot, vous devez:
 # Voilà votre robot est maintenant lancer !
 
 ***Merci d'utiliser notre robot. Nous faisons tout pour satisfaire au mieux votre confort.***
-Ce robot n'est **pas forcément là dans le but d'être optimisé mais** bien dans le but d'aider les **utilisateur cherchant à avoir un robot unique**.
+Ce robot n'est **pas forcément là dans le but d'être optimisé, mais** bien dans le but d'aider les **utilisateurs cherchant à avoir un robot unique**.
