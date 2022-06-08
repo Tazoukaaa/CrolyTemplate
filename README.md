@@ -7,7 +7,7 @@ Il ne comprend pour le moment pas de fonction, ***multi-serveurs***, mais nous r
 <br>
 ⚠️ | L'intent `message content` va être obselète le 31 aout 2022.
 <br><br>
-![Discord Developpers](/intents.png)
+![Discord Developpers](https://github.com/BouBouw/Template-discord-bot/raw/main/intents.png)
 
 # Composition de la base
     - assets
